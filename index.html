@@ -17,7 +17,7 @@
 </style>
 </head>
 <body>
-<div class="announcement">A little luxury, delivered to your door · Cash on Delivery available</div>
+<div class="announcement">A little luxury, delivered to your door · advance payment<div>
 <header class="header">
   <div class="head-inner">
     <a class="brand" href="#" aria-label="Ayesha Beauty Hub home"><span class="brand-mark">A</span><span><span class="brand-name">Ayesha Beauty Hub</span><span class="brand-sub">Beauty, made personal</span></span></a>
@@ -76,7 +76,7 @@ const products = [
 ];
 products.forEach(p=>p.image=p.images[0]);
 const money=n=>"PKR "+Number(n).toLocaleString("en-PK");
-const waNumber="923164387851";
+const waNumber="923295100416";
 let activeCategory="All",cart={},wishlist=new Set(),quickProduct=null;
 const grid=document.getElementById("productGrid");
 function toast(message){const t=document.getElementById("toast");t.textContent=message;t.classList.add("show");clearTimeout(window.toastTimer);window.toastTimer=setTimeout(()=>t.classList.remove("show"),2400)}
