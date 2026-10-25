@@ -21,7 +21,7 @@
    IMG.blusher
   ]
  },
- {
+  {
   "name": "Cleansing Milk",
   "brand": "Q'RIO",
   "category": "Skin Care",
@@ -32,9 +32,7 @@
   "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-25",
-  "images": [
-   IMG.qrio_cleansing_milk
-  ]
+  "images": ["images/qrio.jpg"]
  },
  {
   "name": "Blueberry Serum",
@@ -47,9 +45,7 @@
   "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-25",
-  "images": [
-   IMG.kormesic_blueberry_serum
-  ]
+  "images": ["images/kormesic.jpg"]
  },
  {
   "name": "FV Foundation & Flicka Silk Touch Primer",
@@ -62,9 +58,7 @@
   "priceNote": "Limited Time Offer",
   "delivery": "Rs. 250",
   "added": "2026-10-25",
-  "images": [
-   IMG.fv_flicka_bundle
-  ]
+  "images": ["images/fv_bundle.jpg"]
  },
  {
   "name": "SK-FOREVER Red Diamond Liquid Foundation",
@@ -77,9 +71,7 @@
   "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-25",
-  "images": [
-   IMG.fv_red_diamond
-  ]
+  "images": ["images/fv_red_diamond.jpg"]
  },
  {
   "name": "Mini Portable Wet Wipes",
