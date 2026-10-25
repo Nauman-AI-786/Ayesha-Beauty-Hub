@@ -22,6 +22,66 @@
   ]
  },
  {
+  "name": "Cleansing Milk",
+  "brand": "Q'RIO",
+  "category": "Skin Care",
+  "shade": "",
+  "size": "",
+  "desc": "Out Class Quality | For All Skin Types | Customer Demanding Item",
+  "price": 550,
+  "priceNote": "",
+  "delivery": "Rs. 250",
+  "added": "2026-10-25",
+  "images": [
+   IMG.qrio_cleansing_milk
+  ]
+ },
+ {
+  "name": "Blueberry Serum",
+  "brand": "KORMESIC",
+  "category": "Skin Care",
+  "shade": "",
+  "size": "30ML",
+  "desc": "Anti-Oxidation Face Milk Serum | Original | Out Class Quality | Online Demanding Item",
+  "price": 650,
+  "priceNote": "",
+  "delivery": "Rs. 250",
+  "added": "2026-10-25",
+  "images": [
+   IMG.kormesic_blueberry_serum
+  ]
+ },
+ {
+  "name": "FV Foundation & Flicka Silk Touch Primer",
+  "brand": "FV & FLICKA",
+  "category": "Face",
+  "shade": "",
+  "size": "Foundation + Primer Bundle",
+  "desc": "Online Trending Products | Smooth Silky Finish | Pore-Blurring Primer | Full Coverage Lightweight Foundation",
+  "price": 999,
+  "priceNote": "Limited Time Offer",
+  "delivery": "Rs. 250",
+  "added": "2026-10-25",
+  "images": [
+   IMG.fv_flicka_bundle
+  ]
+ },
+ {
+  "name": "SK-FOREVER Red Diamond Liquid Foundation",
+  "brand": "FV",
+  "category": "Face",
+  "shade": "",
+  "size": "",
+  "desc": "Original | Out Class Quality | Waterproof | Full Coverage | Online Demanding Item",
+  "price": 1150,
+  "priceNote": "",
+  "delivery": "Rs. 250",
+  "added": "2026-10-25",
+  "images": [
+   IMG.fv_red_diamond
+  ]
+ },
+ {
   "name": "Mini Portable Wet Wipes",
   "brand": "Ayesha Beauty Hub",
   "category": "Skincare",
