@@ -56,107 +56,23 @@
   ]
  },
  {
-  "name": "Rice Bran Peel Off Mask",
+  "name": "Peel Off Mask",
   "brand": "Huda Beauty",
   "category": "Skincare",
-  "shade": "Rice",
+  "shade": "Rice, Aloe Vera, Golden, Charcoal, Vitamin C, Coffee, Ice",
   "size": "10 Piece Pack",
-  "desc": "Whitening & Brightening | Out Class Quality | Most & Regular Use Demanding Item",
+  "desc": "07 Variants Available | Out Class Quality | Most & Regular Use Demanding Item",
   "price": 1000,
   "priceNote": "10 piece pack",
   "delivery": "Rs. 250",
   "added": "2026-10-28",
   "images": [
-   "images/mask-rice.jpg"
-  ]
- },
- {
-  "name": "Golden Peel Off Mask",
-  "brand": "Huda Beauty",
-  "category": "Skincare",
-  "shade": "Golden",
-  "size": "10 Piece Pack",
-  "desc": "Whitening & Firming | Out Class Quality | Most & Regular Use Demanding Item",
-  "price": 1000,
-  "priceNote": "10 piece pack",
-  "delivery": "Rs. 250",
-  "added": "2026-10-28",
-  "images": [
-   "images/mask-golden.jpg"
-  ]
- },
- {
-  "name": "Vitamin C Silk Mask",
-  "brand": "Huda Beauty",
-  "category": "Skincare",
-  "shade": "Vitamin C",
-  "size": "10 Piece Pack",
-  "desc": "Brightening & Anti-Aging | Out Class Quality | Most & Regular Use Demanding Item",
-  "price": 1000,
-  "priceNote": "10 piece pack",
-  "delivery": "Rs. 250",
-  "added": "2026-10-28",
-  "images": [
-   "images/mask-vitaminc.jpg"
-  ]
- },
- {
-  "name": "Charcoal Whitening Mask",
-  "brand": "Sadoer",
-  "category": "Skincare",
-  "shade": "Charcoal",
-  "size": "10 Piece Pack",
-  "desc": "Deep Hydrating | Out Class Quality | Most & Regular Use Demanding Item",
-  "price": 1000,
-  "priceNote": "10 piece pack",
-  "delivery": "Rs. 250",
-  "added": "2026-10-28",
-  "images": [
-   "images/mask-charcoal.jpg"
-  ]
- },
- {
-  "name": "Aloe Vera Hydrating Mask",
-  "brand": "Huda Beauty",
-  "category": "Skincare",
-  "shade": "Aloe Vera",
-  "size": "10 Piece Pack",
-  "desc": "Refreshing & Hydrating | Out Class Quality | Most & Regular Use Demanding Item",
-  "price": 1000,
-  "priceNote": "10 piece pack",
-  "delivery": "Rs. 250",
-  "added": "2026-10-28",
-  "images": [
-   "images/mask-aloe.jpg"
-  ]
- },
- {
-  "name": "Coffee Peel Off Mask",
-  "brand": "Huda Beauty",
-  "category": "Skincare",
-  "shade": "Coffee",
-  "size": "10 Piece Pack",
-  "desc": "Whitening & Brightening | Out Class Quality | Most & Regular Use Demanding Item",
-  "price": 1000,
-  "priceNote": "10 piece pack",
-  "delivery": "Rs. 250",
-  "added": "2026-10-28",
-  "images": [
-   "images/mask-coffee.jpg"
-  ]
- },
- {
-  "name": "Ice Cooling Face Mask",
-  "brand": "Huda Beauty",
-  "category": "Skincare",
-  "shade": "Ice",
-  "size": "10 Piece Pack",
-  "desc": "Instant Cooling | Out Class Quality | Most & Regular Use Demanding Item",
-  "price": 1000,
-  "priceNote": "10 piece pack",
-  "delivery": "Rs. 250",
-  "added": "2026-10-28",
-  "images": [
+   "images/mask-rice.jpg",
+   "images/mask-aloe.jpg",
+   "images/mask-golden.jpg",
+   "images/mask-charcoal.jpg",
+   "images/mask-vitaminc.jpg",
+   "images/mask-coffee.jpg",
    "images/mask-ice.jpg"
   ]
  },
