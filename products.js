@@ -20,7 +20,7 @@
   "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": ["images/cera-ve.jpg"]
+  "images": ["images/cera-ve.jpeg"]
 },
 {
   "name": "CHIRS’S Face Powder",
@@ -33,7 +33,7 @@
   "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": ["images/chirs's.jpg"]
+  "images": ["images/chirs.jpeg"]
 },
 {
   "name": "Dermacos",
@@ -46,7 +46,7 @@
   "priceNote": "Each 700",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": ["images/dermacos.jpg"]
+  "images": ["images/dermacos.jpeg"]
 },
 {
   "name": "Dermacos",
@@ -59,7 +59,7 @@
   "priceNote": "Each 650",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": ["images/dermacos-01.jpg"]
+  "images": ["images/dermacos-01.jpeg"]
 },
 {
   "name": "KS-ONE Capsules Matte Lipstick",
@@ -72,7 +72,7 @@
   "priceNote": "18 piece pack",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": ["images/ks-one.jpg"]
+  "images": ["images/ks-one.jpeg"]
 }, 
  {
   "name": "Flormar Matte Lipstick Pencil",
