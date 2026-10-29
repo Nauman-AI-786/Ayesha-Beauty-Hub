@@ -73,7 +73,7 @@
   "delivery": "Rs. 250",
   "added": "2026-10-29",
   "images": ["images/ks-one.jpeg"]
-}, 
+},
  {
   "name": "Flormar Matte Lipstick Pencil",
   "brand": "Flormar",
