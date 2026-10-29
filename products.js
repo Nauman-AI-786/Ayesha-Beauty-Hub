@@ -9,20 +9,71 @@
  // Ye entries apni product file ke NEW_PRODUCTS array ke andar paste karein,
 // Magic Blusher wali entry ke baad (aakhri "}," ke neeche).
 // Images ke raste "images/..." hain, base64 (IMG) ki zaroorat nahi.
- {
-  "name": "Cera Ve",
+{
+  "name": "Hydrating Skin Polish",
   "brand": "Cera Ve",
-  "category": "Skin",
+  "category": "Skincare",
   "shade": "",
-  "size": "1 Piece",
-  "desc": "Original | Best Result | Out Class Quality | Online & Most Demanding Item",
+  "size": "",
+  "desc": "Out Class Quality | Best Result | Most Demanding Item",
   "price": 550,
+  "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": [
-   "images/cera-ve.jpg"
-  ]
- },
+  "images": ["images/cerave-skin-polish.jpg"]
+},
+{
+  "name": "CHIRS’S Face Powder",
+  "brand": "CHIRS’S",
+  "category": "Face",
+  "shade": "2",
+  "size": "",
+  "desc": "Original High Coverage | With Puff & Mirrior",
+  "price": 550,
+  "priceNote": "",
+  "delivery": "Rs. 250",
+  "added": "2026-10-29",
+  "images": ["images/chirs's-face-powder.jpg"]
+},
+{
+  "name": "Dermacos",
+  "brand": "dermacos",
+  "category": "Face",
+  "shade": "",
+  "size": "",
+  "desc": "Massaging | Multi Vitamin Cream | Original | Out Class Quality | Guaranteed result | Most Demanding Item",
+  "price": 700,
+  "priceNote": "Each 700",
+  "delivery": "Rs. 250",
+  "added": "2026-10-29",
+  "images": ["images/dermacos.jpg"]
+},
+{
+  "name": "Dermacos",
+  "brand": "dermacos",
+  "category": "Face",
+  "shade": "",
+  "size": "",
+  "desc": "Pore-Perfecting | Witch Hazel Massage | Original | Out Class Quality | Guaranteed result | Most Demanding Item",
+  "price": 650,
+  "priceNote": "Each 650",
+  "delivery": "Rs. 250",
+  "added": "2026-10-29",
+  "images": ["images/dermacos-01.jpg"]
+},
+{
+  "name": "KS-ONE Capsules Matte Lipstick",
+  "brand": "ks-one",
+  "category": "Lips",
+  "shade": "",
+  "size": "18 Piece Pack",
+  "desc": "Original | Out Class Quality | Online Most Demanding Item",
+  "price": 650,
+  "priceNote": "18 piece pack",
+  "delivery": "Rs. 250",
+  "added": "2026-10-29",
+  "images": ["images/ks-one.jpg"]
+}, 
  {
   "name": "Flormar Matte Lipstick Pencil",
   "brand": "Flormar",
