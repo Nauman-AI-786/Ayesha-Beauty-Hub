@@ -9,7 +9,20 @@
  // Ye entries apni product file ke NEW_PRODUCTS array ke andar paste karein,
 // Magic Blusher wali entry ke baad (aakhri "}," ke neeche).
 // Images ke raste "images/..." hain, base64 (IMG) ki zaroorat nahi.
-
+ {
+  "name": "Cera Ve",
+  "brand": "Cera Ve",
+  "category": "Skin",
+  "shade": "",
+  "size": "1 Piece",
+  "desc": "Original | Best Result | Out Class Quality | Online & Most Demanding Item",
+  "price": 550,
+  "delivery": "Rs. 250",
+  "added": "2026-10-29",
+  "images": [
+   "images/cera-ve.jpg"
+  ]
+ },
  {
   "name": "Flormar Matte Lipstick Pencil",
   "brand": "Flormar",
