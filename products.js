@@ -20,7 +20,7 @@
   "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": ["images/cerave-skin-polish.jpg"]
+  "images": ["images/cera-ve.jpg"]
 },
 {
   "name": "CHIRS’S Face Powder",
@@ -33,7 +33,7 @@
   "priceNote": "",
   "delivery": "Rs. 250",
   "added": "2026-10-29",
-  "images": ["images/chirs's-face-powder.jpg"]
+  "images": ["images/chirs's.jpg"]
 },
 {
   "name": "Dermacos",
